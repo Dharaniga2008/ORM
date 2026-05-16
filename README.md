@@ -4,8 +4,6 @@
 ## AIM
 To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
 
-## ENTITY RELATIONSHIP DIAGRAM
-
 
 
 ## DESIGN STEPS
